@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Gabriel, but you can call me Dal Ri!
+### My Pronouns are he/him
+
+# Here you can find somethings that I'm doing in my journey to be a hacker
 
 <!--
 **G-DalRi/G-DalRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
