@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my GitHub profile.
-## 🚀 About Me:
 - My name is Gabriel, but you can call me Dal Ri
 - Pronouns: He/Him
 - I am currently studying Cybersecurity
