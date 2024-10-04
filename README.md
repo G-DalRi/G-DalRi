@@ -1,10 +1,11 @@
 # 👋 Hello! Welcome to my GitHub profile.
-## My name is Gabriel, but you can call me Dal Ri!
+## 🚀 About Me:
+- My name is Gabriel, but you can call me Dal Ri
 - Pronouns: He/Him
 - I am currently studying Cybersecurity
 - Certified Network Technician
 
-## 🚀 About Me:
+
 Here you will find projects and work from my journey towards becoming a hacker.
 
 ## 🌐 Socials:
@@ -20,6 +21,8 @@ Here you will find projects and work from my journey towards becoming a hacker.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-DalRi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
