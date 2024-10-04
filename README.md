@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriel, but you can call me Dal Ri!
-My Pronouns are he/him
-I'm studying CyberSecurity
-Tecnico em Redes de Computadores
+-My Pronouns are he/him\n
+-I'm studying CyberSecurity
+-Tecnico em Redes de Computadores
 
 
 
