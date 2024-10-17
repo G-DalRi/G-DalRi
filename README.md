@@ -20,11 +20,6 @@ Here you will find projects and work from my journey towards becoming a hacker.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_dalri11) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-dal-ri)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-DalRi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G-DalRi&theme=dark&hide_border=true)
-<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-DalRi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
