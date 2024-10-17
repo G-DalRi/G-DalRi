@@ -1,9 +1,7 @@
 # 👋 Hello! Welcome to my GitHub profile.
 - My name is Gabriel, but you can call me Dal Ri
 - Pronouns: He/Him
-- 🧑‍💻 I am currently studying Cybersecurity 🧑‍💻
-- 🛜 Certified Network Technician 🛜
-
+- I am currently studying Cybersecurity 🧑‍💻
 
 Here you will find projects and work from my journey towards becoming a hacker.
 
